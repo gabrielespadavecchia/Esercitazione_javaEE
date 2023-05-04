@@ -30,5 +30,6 @@ public class EsercitazioneJavaMain {
 //        EsempioJSON esempioJSON = new EsempioJSON();
 //        esempioJSON.esempioJSONOggetto();
 //        esempioJSON.esempioJSONArray();
+
     }
 }
